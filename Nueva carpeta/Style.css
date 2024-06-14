@@ -1,0 +1,249 @@
+
+@media(max-width:500px){
+    /*Celular*/
+    
+body{
+    background-color: brown;
+}
+
+
+button{
+background-color:  aqua;
+font-size:300%;
+}
+
+
+
+header{color:aqua;
+font-size: large;
+background-color:coral;
+width: 100%;
+}
+
+
+
+
+
+#Img2{
+border: 1cm;
+border-color:black ;
+width: 65%;}
+
+#Img0{border-radius: 50%;}
+.Card{
+width: 350px;
+height: 360px;
+background-color: white;
+
+
+}
+.Card:hover{
+border: 5px  black solid;
+
+}
+.Card2{
+    width: 350px;
+    height: 360px;
+    background-color: white;
+    border: 3cm black;
+   
+   
+    
+}
+.Card,.Card2,.Card3{
+    margin: 10px;
+}
+.ContP{
+    display: grid;
+    align-items: center;
+}
+.Card2:hover{
+    border: 5px  black solid;
+   
+    }
+.Card3{
+    width: 350px;
+    height: 360px;
+    background-color: white;
+    border: 3cm black;
+    
+    
+}
+.Card3:hover{
+    border: 5px  black solid;
+    
+    }
+
+
+
+    .Redes{
+    display: flex;
+
+    }
+
+}
+
+@media(min-width:501px){
+    /*Tablet*/
+    
+body{
+    background-color: brown;
+}
+
+#bloquecarrusel{
+    height: 350px;
+    width: 50%;
+}
+button{
+background-color:  aqua;
+font-size:300%;
+}
+
+
+
+header{color:aqua;
+font-size: large;
+background-color:coral;
+width: 100%;
+}
+
+
+
+
+
+#Img2{
+border: 1cm;
+border-color:black ;
+width: 65%;}
+
+#Img0{border-radius: 50%;}
+.Card{
+width: 350px;
+height: 360px;
+background-color: white;
+
+
+}
+.Card.Card2{display: flex;}
+.Card:hover{
+border: 5px  black solid;
+
+}
+.Card,.Card2,.Card3{
+    margin: 10px;
+}
+    .Card2{
+
+    width: 350px;
+    height: 360px;
+    background-color: white;
+    border: 3cm black;
+   
+    
+}
+.Card2:hover{
+    border: 5px  black solid;
+   
+    }
+.Card3{
+    width: 350px;
+    height: 360px;
+    background-color: white;
+    border: 3cm black;
+  
+    
+}
+.Card3:hover{
+    border: 5px  black solid;
+    
+    }
+
+
+
+    .Redes{
+    display: flex;
+
+    }
+
+}
+@media(min-width:1000px){
+/*Compu*/
+
+body{
+    background-color: brown;
+}
+
+
+button{
+background-color:  aqua;
+font-size:300%;
+}
+
+
+
+header{color:aqua;
+font-size: large;
+background-color:coral;
+width: 100%;
+}
+
+
+
+
+
+#Img2{
+border: 1cm;
+border-color:black ;
+width: 65%;}
+
+#Img0{border-radius: 50%;}
+.Card{
+width: 350px;
+height: 360px;
+background-color: white;
+
+
+}
+.Card:hover{
+border: 5px  black solid;
+
+}
+.Card2{
+    width: 350px;
+    height: 360px;
+    background-color: white;
+    border: 3cm black;
+    
+    
+}
+.Card2:hover{
+    border: 5px  black solid;
+   
+    }
+.Card3{
+    width: 350px;
+    height: 360px;
+    background-color: white;
+    border: 3cm black;
+    
+    
+}
+.ContP{display: flex;
+    align-items: center;}
+    .Card,.Card2,.Card3{
+        margin: 10px;
+    }
+
+.Card3:hover{
+    border: 5px  black solid;
+    
+    }
+
+
+
+    .Redes{
+    display: flex;
+
+    }
+
+}
